@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-dao/hello-world-dao.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-dao/hello-world-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-entities/hello-world-entities.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-entities/hello-world-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-interfaces/hello-world-interfaces.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-interfaces/hello-world-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-parent/hello-world-parent.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-parent/hello-world-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-services/hello-world-service-deneme/hello-world-service-deneme.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-services/hello-world-service-deneme/hello-world-service-deneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-services/hello-world-services.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-services/hello-world-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-utils/hello-world-utils.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-utils/hello-world-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-web/hello-world-web.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-web/hello-world-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/personel.iml" filepath="$PROJECT_DIR$/.idea/personel.iml" />
+    </modules>
+  </component>
+</project>
