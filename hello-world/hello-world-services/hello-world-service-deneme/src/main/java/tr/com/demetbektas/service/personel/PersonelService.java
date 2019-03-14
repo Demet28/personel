@@ -20,4 +20,5 @@ public class PersonelService implements IPersonelService {
     public PersonelImpl getPersonel(String param) {
         return personelDao.getPersonel(param);
     }
+// denemee test git
 }
